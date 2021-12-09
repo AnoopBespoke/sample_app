@@ -1,0 +1,23 @@
+
+.welcome{
+	margin-bottom:100px ;
+}
+.welcome h1{
+	color: rgb(190, 10, 10);
+
+}
+
+.welcome p{
+	color: rgb(185, 197, 16);
+    text-align: justify;
+    margin-right: 30%;
+}
+
+
+@media (max-width: 580px) {
+  .welcome p {
+    color: rgb(214, 9, 9);
+    text-align: justify;
+    margin-right: 10%;
+  }
+}

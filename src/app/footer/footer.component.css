@@ -1,0 +1,12 @@
+@media(max-width:580px) {
+    footer h3{
+		font-size: 15px;
+	 }
+
+     
+	 footer p{
+		 font-size:10px;
+	 }
+
+
+}
