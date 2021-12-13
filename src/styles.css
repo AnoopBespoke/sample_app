@@ -1,37 +1,5 @@
 
 
-
-
-
-
-.footer {
-	left: 5;
-	bottom: 0;
-	width: 100%;
-	background-color: rgb(17, 15, 15);
-	opacity: 0.6;
-	color: white;
-	position: unset;
-	text-align: center;
- }
- .footer .row{
-	 margin-left:5px;
- }
- .footer  h3{
-	 font-size:20px;
-	 text-align: left;
-
-	 
-
- }
- .footer  p{
-	font-size: 10px;
-	text-align: left;
-	margin-left: 5px;
-	text-decoration: none;
-
- }
-
  * {
 	margin: 0;
 	padding: 0;
